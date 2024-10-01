@@ -96,7 +96,7 @@ For this procedure, we are using HTpasswd as the Identity Provider (IdP). HTPass
 
 ## Automation key
 
-- From this repo's root directory, run below command
+- From this repository's root directory, run below command
     - ```sh
         ./bootcamp/scripts/runstep.sh -s 1
         ```
