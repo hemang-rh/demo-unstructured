@@ -1,3 +1,3 @@
 # demo-unstructured
 
-Unstructureed demo
+Unstructured demo
