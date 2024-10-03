@@ -1,5 +1,7 @@
 # Red Hat OpenShift AI BootCamp
 
+[![Spelling](https://github.com/hemang-rh/demo-unstructured/blob/main/.github/workflows/spellcheck.yml/badge.svg)](https://github.com/hemang-rh/demo-unstructured/blob/main/.github/workflows/spellcheck.yml)
+
 **Acronyms**:
 
 - RHOCP = Red Hat OpenShift Container Platform
